@@ -19,7 +19,7 @@ This is a hands-on workshop and lecture series about the Introduction to Computa
 **Keywords:**
 Computational Geometry, Visualization, Urban and Architectural Data, web-based
 
-**[Workshop link](\IntroductionToComputationalDesignDataGeometryVisualization\README.md)**
+**[Workshop link](https://github.com/NamjuLee/Data-Design-Workshop-index/tree/main/IntroductionToComputationalDesignDataGeometryVisualization)**
 
 -----
 
