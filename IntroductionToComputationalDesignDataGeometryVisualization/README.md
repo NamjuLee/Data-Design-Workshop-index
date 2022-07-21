@@ -19,11 +19,17 @@ Language:
 [English](https://www.digitalfutures.world/workshops-americas-blog/njlee-en) / [Korean](https://www.digitalfutures.world/workshops-asia-pacific-blog/njlee-kr)
 
 **_Workshop Schedule:_**
+
 _Day 1:_ [_Processing Data and Visualization in Digital Media_](https://medium.com/@nj.namju/1-data-processing-d5111a9857bf)
+
 _Day 2:_ [_Data Processing using Python_](https://medium.com/@nj.namju/2-data-processing-using-python-5edaf5e5d020)
+
 _Day 3:_ [_Typescript and HTML Canvas_](https://medium.com/@nj.namju/3-typescript-html-canvas-d1a45c48021)
+
 _Day 4:_ [_Computational Geometry and Geometry Class_](https://medium.com/@nj.namju/4-computational-geometry-geometry-class-f15d342469d4)
+
 _Day 5:_ [_Pipeline for Data and Geometry Visualization (or CAD system)_](https://medium.com/@nj.namju/5-pipeline-for-data-and-geometry-visualization-b2c9df7c21c7)
+
 _Day 6:_ [_Digital Mapping using ArcGIS JSAPI_](https://medium.com/@nj.namju/6-digital-mapping-using-arcgis-jsapi-626e108d624b)
 
 Digital FUTURES World [_Youtube Playlist Long version_](https://www.youtube.com/playlist?list=PLIyZNoxG7nmlXNW2GSfFVzENf_8T0P4Tc) (English)  
