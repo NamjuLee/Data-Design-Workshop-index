@@ -3,7 +3,6 @@
 by NJ Namju Lee / nj.namju@gmail.com
 
 
-----
 # Lecture Series
 
 #### [_Computational Design [Book]_](https://computationaldesign.tistory.com/49)
@@ -26,7 +25,7 @@ by NJ Namju Lee / nj.namju@gmail.com
 
 
 
-### [How to code for designers](https://computationaldesign.tistory.com/37)
+#### [How to code for designers](https://computationaldesign.tistory.com/37)
 * Korean, ~~English~~
 * **keywords:** Computational Design, Data, How to code for designers, Design algorithm, Computational Thinking ...  
 * **This lecture series** is for the freshman in architectural design school. It helps students understand and harness hardware and software technology in design process as tools, particularly how to use data as design materials and code the design process with the data as instructions.
@@ -72,9 +71,8 @@ by NJ Namju Lee / nj.namju@gmail.com
 [Korean]() , ~~English~~
 
 
-----
-# Workshop Series
 
+# Workshop Series
 
 
 #### [_Discrete Urban Space and Connectivity_](./MD/Workshop%20Discrete%20Urban%20Space%20and%20Connectivity.md)
@@ -191,7 +189,7 @@ by NJ Namju Lee / nj.namju@gmail.com
 #### [_Other Lecture Series : Design and Computation_]()  
 [Korean](https://www.youtube.com/playlist?list=PLweNVwGgDKEb94hRD2OT4bNWhtO0Ggu_o) , ~~English~~
 
-----
+
 #### Extra links
 * Demo [playlist](https://www.youtube.com/playlist?list=PLIyZNoxG7nmmeqDu3L0TwX5G-XZsmnnuQ), Work Snippet [playlist](https://www.youtube.com/playlist?list=PLIyZNoxG7nmlvJsxZ6WEnkPMCm6BZV7zD)
 * Research [playlist](https://computationaldesign.tistory.com/10)
