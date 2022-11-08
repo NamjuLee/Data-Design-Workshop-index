@@ -214,6 +214,6 @@ MDes;Harvard, MArch;UCB, B.S;SNUST, Research Fellow; MIT
 
 [_NJ Blog_](http://www.namju.info) _/_ [_NaverBlog(KR)_](http://blog.naver.com/designju/) / [_NaverCafe(KR)_](https://cafe.naver.com/codefordesign) _/_ [_GitHub_](https://github.com/NamjuLee) _/_ [_Linkedin_](https://www.linkedin.com/in/nj-namju-lee-926b3252/) _/_ [_NJSTUDIO FB_](https://www.facebook.com/NJSLAB/?eid=ARBkMy4JztZ2Gnt6Xt--ReJCpTEMYxFY1yIRkrevz-Q6uLkV-PxHJuleS3ZzJFtBhahQtY0RVBNyQqot)
 
-[_Youtube(Eng)_](https://www.youtube.com/channel/UCP4q3a4ogJN1-SbJclJR3Ww?view_as=subscriber) _/_ [_Youtube(Kr)_](https://www.youtube.com/channel/UC3Z42uoe9C7Et39h5cLK1dw?view_as=subscriber) _/_ [_Lecture_](https://www.youtube.com/playlist?list=PLweNVwGgDKEasb4RbUugM4ljH8oULTboc) / [_Workshop_](https://www.youtube.com/playlist?list=PLweNVwGgDKEb94hRD2OT4bNWhtO0Ggu_o) / [_QnA_](https://www.youtube.com/playlist?list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e) / [_Medium_](https://medium.com/@nj.namju) _/_ [_DaumBrunch_](https://brunch.co.kr/@njnamju)
+[_Youtube(Eng)_](https://www.youtube.com/channel/UCP4q3a4ogJN1-SbJclJR3Ww?view_as=subscriber) _/_ [_Youtube(Kr)_](https://www.youtube.com/channel/UC3Z42uoe9C7Et39h5cLK1dw?view_as=subscriber) _/_ [_Lecture_](https://www.youtube.com/playlist?list=PLweNVwGgDKEasb4RbUugM4ljH8oULTboc) / [_Workshop_](https://www.youtube.com/playlist?list=PLweNVwGgDKEb94hRD2OT4bNWhtO0Ggu_o) / [_QnA_](https://www.youtube.com/playlist?list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e) / [_Medium_](https://medium.com/@nj-namju) _/_ [_DaumBrunch_](https://brunch.co.kr/@njnamju)
 
 
